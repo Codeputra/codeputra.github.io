@@ -25,6 +25,10 @@
   font-size: 18px;
 }
 
+.text {
+  font-size: 18px;
+}
+
 .my-projects {
   background-color: #c7ddff;
 }
@@ -48,6 +52,11 @@ section {
 .image-skill {
   width: 250px;
   margin-top: 20px;
+}
+
+.quote {
+  width: 400px;
+  margin: auto;
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -79,6 +88,10 @@ section {
     font-size: 24px;
   }
 
+  .text {
+    font-size: 24px;
+  }
+
   .icon {
     text-indent: -9999px;
   }
@@ -87,5 +100,10 @@ section {
     width: 250px;
     margin-left: -40px;
     margin-top: -10px;
+  }
+
+  .quote {
+    width: 800px;
+    margin: auto;
   }
 }
