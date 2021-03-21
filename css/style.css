@@ -1,0 +1,74 @@
+.navbar-brand {
+  font-family: "IBM Plex Sans Condensed", sans-serif;
+  font-size: 24px;
+}
+
+.navbar-nav {
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.jumbotron {
+  padding-top: 100px;
+  background-color: #c7ddff;
+}
+
+.jumbotron img {
+  width: 250px;
+}
+
+.my-projects {
+  background-color: #c7ddff;
+}
+
+.contact {
+  background-color: #c7ddff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.icon {
+  padding-right: 5px;
+}
+
+.judul-project {
+  font-weight: 400;
+}
+
+.image-skill {
+  width: 250px;
+  margin-top: 20px;
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .navbar-brand {
+    font-family: "IBM Plex Sans Condensed", sans-serif;
+    font-size: 24px;
+  }
+
+  .navbar-nav {
+    font-size: 18px;
+  }
+
+  .navbar-nav li:hover {
+    border-bottom: 3px solid rgb(19, 17, 17);
+    margin-top: -3px;
+  }
+
+  .jumbotron img {
+    width: 300px;
+  }
+
+  .icon {
+    text-indent: -9999px;
+  }
+
+  .image-skill {
+    width: 250px;
+    margin-left: -40px;
+    margin-top: -10px;
+  }
+}
