@@ -70,6 +70,15 @@ section {
     width: 300px;
   }
 
+  .display-4 {
+    font-size: 36px;
+    font-weight: 400;
+  }
+
+  .lead {
+    font-size: 24px;
+  }
+
   .icon {
     text-indent: -9999px;
   }
