@@ -17,6 +17,14 @@
   width: 250px;
 }
 
+.display-4 {
+  font-size: 30px;
+}
+
+.lead {
+  font-size: 18px;
+}
+
 .my-projects {
   background-color: #c7ddff;
 }
