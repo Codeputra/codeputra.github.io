@@ -33,6 +33,10 @@
   background-color: #c7ddff;
 }
 
+.my-projects .container {
+  height: 500px;
+}
+
 .contact {
   background-color: #c7ddff;
 }
