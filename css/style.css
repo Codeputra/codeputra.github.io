@@ -14,7 +14,8 @@
 }
 
 .jumbotron img {
-  width: 250px;
+  background-size: cover;
+  width: 200px;
 }
 
 .display-4 {
@@ -34,7 +35,7 @@
 }
 
 .my-projects .container {
-  height: 500px;
+  height: 800px;
 }
 
 .contact {
