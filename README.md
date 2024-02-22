@@ -1,7 +1,6 @@
-link : https://putragstn.github.io/
 
 
-<h1>Portfolio Sederhana</h1>
+<h1>My Portfolio</h1>
 
 <h3>Mobile Version</h3>
 
