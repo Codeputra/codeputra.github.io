@@ -2,7 +2,7 @@
 Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill-skill yang miliki atau berpengalaman.
 
 ## Link
-	[My Portfolio](https://putragstn.github.io/)
+[My Portfolio](https://putragstn.github.io/)
 
 # Technology
 * HTML5
