@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .navbar-brand {
   font-family: "IBM Plex Sans Condensed", sans-serif;
   font-size: 24px;
@@ -75,6 +79,10 @@ section {
 
 .text-quote {
   font-weight: 100;
+}
+
+footer {
+  padding-top: 50px;
 }
 
 /* Large devices (desktops, 992px and up) */
