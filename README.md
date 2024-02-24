@@ -4,7 +4,7 @@ Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill
 ## Link
 [My Portfolio](https://putragstn.github.io/)
 
-# Technology
+## Technology
 * HTML5
 * CSS3
 * Bootstrap 5
