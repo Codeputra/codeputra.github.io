@@ -12,6 +12,6 @@ Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill
 ## Navigation
 * [Home](https://putragstn.github.io/#home)
 * [About](https://putragstn.github.io/#about)
-* [Project](https://putragstn.github.io/#projects)
-* [Skill](https://putragstn.github.io/#skill)
+* [Project](https://putragstn.github.io/#my-projects)
+* [Skill](https://putragstn.github.io/#my-skill)
 * [Contact](https://putragstn.github.io/#contact)
