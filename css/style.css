@@ -19,15 +19,15 @@
   width: 200px;
 }
 
-.display-4 {
+.jumbotron .display-4 {
   font-size: 30px;
 }
 
-.lead {
+.jumbotron .lead {
   font-size: 18px;
 }
 
-.text {
+.about-me .text {
   font-size: 18px;
 }
 
@@ -40,9 +40,15 @@
   padding-bottom: 50px;
 }
 
-.image-skill {
-  width: 250px;
-  margin-top: 20px;
+.my-skill .container .item {
+  /* background-color: yellow; */
+  width: 175px;
+  margin-bottom: 30px;
+  /* margin: 10px; */
+}
+
+.my-skill img {
+  width: 100px;
 }
 
 .contact {
@@ -51,10 +57,6 @@
 
 section {
   padding-top: 5rem;
-}
-
-.icon {
-  padding-right: 5px;
 }
 
 .my-projects img {
@@ -95,21 +97,28 @@ section {
     width: 250px;
   }
 
-  .display-4 {
+  .jumbotron .display-4 {
     font-size: 36px;
     font-weight: 400;
   }
 
-  .lead {
+  .jumbotron .lead {
     font-size: 24px;
   }
 
-  .text {
+  .about-me .text {
     font-size: 24px;
   }
 
-  .icon {
-    text-indent: -9999px;
+  .my-skill .container .item {
+    /* background-color: yellow; */
+    width: 300px;
+    /* margin: 10px; */
+    margin-bottom: 50px;
+  }
+
+  .my-skill img {
+    width: 150px;
   }
 
   .image-skill {
