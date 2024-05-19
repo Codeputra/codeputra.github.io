@@ -8,6 +8,8 @@ Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill
 * HTML5
 * CSS3
 * Bootstrap 5
+* Javascript
+* Font Awesome 6
 
 ## Navigation
 * [Home](https://putragstn.github.io/#home)
