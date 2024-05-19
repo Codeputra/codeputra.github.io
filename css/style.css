@@ -118,6 +118,11 @@ footer {
     font-size: 24px;
   }
 
+  .my-projects img {
+    /* width: 500px; */
+    height: 285px;
+  }
+
   .my-skill .container .item {
     /* background-color: yellow; */
     width: 300px;
