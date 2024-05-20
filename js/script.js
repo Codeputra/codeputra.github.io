@@ -1,11 +1,20 @@
-// Tangkap elemen card 2
+// Tangkap elemen id pada card
+let cardImage1 = document.getElementById("card-1");
 let cardImage2 = document.getElementById("card-2");
 
 // Insialisasi gambar untuk card 2
+let imageList1 = ["img/projects/sistem-informasi-keuangan.jpg", "img/projects/login-sik.png"]
 let imageList2 = ["img/projects/login-cemerlang-key.png", "img/projects/admin-landing-page.jpg"];
 
-// Inisialisasi indeks gambar untuk card 2
+// Inisialisasi indeks gambar untuk pada card
+let currentIndex1 = 0;
 let currentIndex2 = 0;
+
+// Fungsi untuk mengubah gambar untuk card 2
+function changeImageCard1() {
+    cardImage1.src = imageList1[currentIndex1];
+    currentIndex1 = (currentIndex1 + 1) % imageList1.length;
+}
 
 // Fungsi untuk mengubah gambar untuk card 2
 function changeImageCard2() {
@@ -14,4 +23,5 @@ function changeImageCard2() {
 }
 
 // Panggil fungsi changeImage untuk mengubah gambar setiap beberapa detik
+setInterval(changeImageCard1, 4000); // Ubah gambar pada card-1 setiap 4 detik (4000 milidetik)
 setInterval(changeImageCard2, 3000); // Ubah gambar pada card-2 setiap 3 detik (3000 milidetik)
