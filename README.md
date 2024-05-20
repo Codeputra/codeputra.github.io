@@ -1,5 +1,5 @@
 ## My Portfolio
-Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill-skill yang miliki atau berpengalaman.
+Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill-skill yang miliki atau berpengalaman dalam menggunakannya.
 
 ## Link
 [My Portfolio](https://putragstn.github.io/)
