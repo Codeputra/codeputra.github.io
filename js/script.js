@@ -5,7 +5,7 @@ let cardImage3 = document.getElementById("card-3");
 
 // Insialisasi gambar untuk card 2
 let imageList1 = ["img/projects/sistem-informasi-keuangan.jpg", "img/projects/login-sik.png"]
-let imageList2 = ["img/projects/login-cemerlang-key.png", "img/projects/admin-landing-page.jpg"];
+let imageList2 = ["img/projects/login-cemerlang-key.png", "img/projects/admin-landing-page.jpg", "img/projects/galeri-ck.png", "img/projects/layanan-ck.png", "img/projects/video-ck.png"];
 let imageList3 = ["img/projects/ck-layanan.png", "img/projects/ck-footer.png", "img/projects/landing-page_cemerlang-key.jpg"];
 
 // Inisialisasi indeks gambar untuk pada card
