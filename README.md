@@ -10,6 +10,7 @@ Portfolio berisi tentang saya, projek-projek yang pernah saya kerjakan dan skill
 * Bootstrap 5
 * Javascript
 * Font Awesome 6
+* AOS 2.3.4
 
 ## Navigation
 * [Home](https://putragstn.github.io/#home)
